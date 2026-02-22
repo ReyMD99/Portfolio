@@ -4,9 +4,57 @@ body {
     background-color: #ffffff;
     margin: 0 auto;
     padding: 20px;
+    color: #333;
 }
 
+/* Navegación */
+nav {
+    margin-bottom: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #6a5acd;
+    margin-right: 15px;
+    font-size: 14px;
+}
+
+/* Título principal */
 h1 {
     color: #333;
     border-bottom: 2px solid #007acc;
+    padding-bottom: 8px;
+    margin-bottom: 25px;
+}
+
+/* Subtítulos */
+h2 {
+    color: #007acc;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+/* Párrafos */
+p {
+    line-height: 1.6;
+    font-size: 14px;
+}
+
+/* Separadores visuales */
+section {
+    margin-bottom: 30px;
+}
+
+/* Skills */
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.skill {
+    background-color: #f2f2f2;
+    padding: 10px 15px;
+    border-left: 4px solid #007acc;
+    font-size: 14px;
 }
