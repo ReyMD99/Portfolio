@@ -14,17 +14,14 @@ This project is a responsive portfolio website built with **HTML, CSS, and a bit
 
 It’s a starting point to showcase my learning journey and hands-on projects.
 
----
+## Skills Highlight
 
-## Project Structure
+Web Development (HTML, CSS)
 
-mi-portafolio/
-├── index.html
-├── about.html
-├── contact.html
-├── css/
-│ └── style.css
-├── images/
-│ ├── favicon.png
-│ └── project images
-└── js/
+Cybersecurity fundamentals
+
+Project organization and documentation
+
+## Contact
+
+You can reach me via the Contact Me page on the portfolio website.
